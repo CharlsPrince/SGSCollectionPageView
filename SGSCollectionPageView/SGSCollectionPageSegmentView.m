@@ -9,7 +9,6 @@
 #import "SGSCollectionPageSegmentView.h"
 #import "SGSCollectionPageSegmentStyle.h"
 
-static const CGFloat kTriangleWidth = 5.0;
 static const CGFloat kTriangleHeight = 5.0;
 
 
